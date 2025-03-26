@@ -1,5 +1,4 @@
 lista_cadastro = ([])
-
 nome = str(input("Digite o nome: "))
 idade = int(input("Digite a idade: "))
 email = str(input("Digite o email: "))
