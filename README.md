@@ -1,3 +1,47 @@
+# Repositório de Treinamento em Python  
+
+Bem-vindo ao meu **Repositório de Treinamento em Python**! 🚀  
+
+Este repositório é uma coleção de pequenos algoritmos e exercícios que utilizo para aprimorar minhas habilidades em Python. Ele serve como um ambiente de prática onde experimento diferentes conceitos de programação, técnicas de resolução de problemas e otimizações.  
+
+## 📌 O que você encontrará aqui  
+- Pequenos scripts e funções resolvendo diversos problemas  
+- Implementações de algoritmos e estruturas de dados comuns  
+- Desafios de código e exercícios de prática  
+- Exploração de bibliotecas e funcionalidades do Python  
+
+## 🔧 Tecnologias Utilizadas  
+- Python (recomenda-se a versão mais recente)  
+- VS Code  
+
+## 💡 Objetivos  
+- Melhorar as habilidades de resolução de problemas  
+- Aprender e aplicar novos recursos do Python  
+- Otimizar e refatorar código para maior eficiência  
+- Se divertir programando e experimentando! 😃  
+
+## 🚀 Como Usar  
+1. Clone o repositório:  
+   ```bash
+   git clone (https://github.com/smartielo/projetos-iniciais-python.git)
+   ```  
+2. Acesse o diretório:  
+   ```bash
+   cd projetosiniciais
+   ```  
+3. Execute os scripts com Python:  
+   ```bash
+   python script_name.py
+   ```  
+
+## 📚 Recursos & Referências  
+- [Documentação do Python](https://docs.python.org/3/)  
+- [Real Python](https://realpython.com/)  
+
+Sinta-se à vontade para explorar, contribuir ou sugerir melhorias! 🚀 Feliz programação! 🎯  
+
+***
+
 # Python Training Repository
 
 Welcome to my **Python Training Repository**! 🚀
@@ -12,8 +56,7 @@ This repository is a collection of small algorithms and exercises that I use to 
 
 ## 🔧 Technologies Used
 - Python (Latest version recommended)
-- Jupyter Notebook (for interactive testing)
-- VS Code / PyCharm (Recommended editors)
+- VS Code 
 
 ## 💡 Goals
 - Improve problem-solving skills
@@ -24,11 +67,11 @@ This repository is a collection of small algorithms and exercises that I use to 
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-training.git
+   git clone (https://github.com/smartielo/projetos-iniciais-python.git)
    ```
 2. Navigate to the directory:
    ```bash
-   cd python-training
+   cd projetosiniciais
    ```
 3. Run scripts using Python:
    ```bash
@@ -38,8 +81,6 @@ This repository is a collection of small algorithms and exercises that I use to 
 ## 📚 Resources & References
 - [Python Documentation](https://docs.python.org/3/)
 - [Real Python](https://realpython.com/)
-- [LeetCode](https://leetcode.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
 
 Feel free to explore, contribute, or suggest improvements! 🚀 Happy coding! 🎯
 
