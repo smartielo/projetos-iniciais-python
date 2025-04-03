@@ -1,0 +1,7 @@
+numerodecimal = int(input("Digite um número decimal: "))
+numerobase2 = bin(numerodecimal)
+numerobase8 = oct(numerodecimal)
+numerobase16 = hex(numerodecimal)
+print("Número em binário: ", numerobase2)
+print("Número em octal: ", numerobase8)
+print("Número em hexadecimal: ", numerobase16)
